@@ -1,6 +1,6 @@
 # React Firebase CRUD-Authentication 
 
-React ile Firebase üzerinden CRUD-Authentication işlemlerinin yapılabildiği projedir.
+React ile `Firebase` üzerinden `CRUD` ve `Authentication` işlemlerinin yapılabildiği projedir.
 
 ## Ekran Görüntüleri
 
